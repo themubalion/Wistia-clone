@@ -1,0 +1,87 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    display: inline;
+    padding:25px 25px ;
+}
+
+header{
+    background-color: aliceblue;
+    padding: 20px;
+    margin: 0;
+}
+
+p.navlinks {
+    display: inline-flex;
+    margin:10px 15px;
+    font-family: sans-serif;
+}
+
+#sign_up {
+    float: right;
+    margin:auto 20px;
+    color: rgb(0, 81, 255);
+}
+
+.slogan {
+    background-color: rgb(202,148,164);
+    font-family: 'Montserrat', sans-serif;
+    padding: 100px;
+}
+
+#watch_video {
+    background-color: white;
+    color: black;
+    font-size: 17px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#white {
+    color: white;
+}
+
+.flexer {
+    display: flex;
+    font-family: 'Dosis', sans-serif;
+    font-size: 17px;
+}
+
+.yellow {
+    background-color: rgb(254,210,75);
+    padding: 50px;
+    max-width: 33.33%;
+}
+
+.green {
+    background-color: rgb(80,195,160);
+    padding:50px;
+    max-width: 33.33%;
+}
+
+.blue {
+    background-color: rgb(62,171,244);
+    padding:50px;
+    max-width: 33.33%;
+}
+
+.clickytext {
+    color: white;
+}
+
+.start {
+    color: black;
+    border: 1px solid white;
+    border-radius: 3px;
+    padding:10px;
+}
